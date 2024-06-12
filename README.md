@@ -3,11 +3,10 @@
 A Simple implement of the classic Minesweeper game using Java and Swing for the GUI.
 
 ## Table of contents
-- [Feature](#feature)
-- [Requirements](#requirements)
+- [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Gameplay](#gameplay)
+- [How to play](#howtoplay)
+- [Acknowledgements](#Acknowledgements)
 
 
 ## Features
